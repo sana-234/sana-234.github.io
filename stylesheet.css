@@ -1,0 +1,62 @@
+body {
+  font-family: Avenir next;
+  background-image: url("img/Liverpool.jpg"); 
+  background-size: cover;
+  background-image: cross-fade();
+}
+
+.header {
+  background-color: rgb(21, 255, 0);
+  color: black;
+  height: 60px;
+}
+.header-logo {
+  float: left;
+  font-size: 36px;
+  padding: 10px 40px;
+}
+.header-list li {
+  float: left;
+  list-style: none;
+  padding: 25px 20px;
+}
+
+.copy-container h1 {
+  font-size: 100px;
+}
+.copy-container h2 {
+  font-size: 60px;
+}
+.contents {
+  height: 500px;
+}
+.contact-form {
+  margin-left: 30px;
+}
+.contact-title {
+  font-size: 30px;
+  border: 2px solid black;
+  width: 200px;
+}
+.contents-item {
+  float: left;
+}
+.footer {
+  position: relative;
+  background-color: black;
+  color: #ffffff;
+  height: 80px;
+  padding: 40px;
+}
+.footer-title {
+  position: absolute;
+  top: 12px;
+  font-size: 30px;
+}
+.footer-list {
+  float: right;
+}
+.footer-list li {
+  list-style: none;
+  padding-bottom: 20px;
+}
