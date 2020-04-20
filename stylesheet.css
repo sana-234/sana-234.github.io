@@ -1,6 +1,6 @@
 body {
   font-family: Avenir next;
-  background-image: url("img/Liverpool.jpg"); 
+  background-image: url("Liverpool.jpg"); 
   background-size: cover;
   background-image: cross-fade();
 }
